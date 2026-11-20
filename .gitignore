@@ -7,3 +7,4 @@ server/public
 dist
 .claude/
 .claude
+design-ref/
